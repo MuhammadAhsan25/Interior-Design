@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins';
+}
+header{
+    background-image: url(./image/header.png);
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+    text-align: center;
+    height: 900px;
+    width: 100% ;
+}
+.shopify-logo{
+    height: 50px;
+    width: 180px;
+   
+}
+.heading1{
+    padding-top:100px ;
+    font-weight: 600;
+}
+.title{
+    font-size: 2rem;
+    margin-bottom: 1rem;
+    
+}
+.email-input{
+    width: 60%;
+}
+.submit-btn{
+    background-color: black !important;
+    width: 80%;
+    padding-top: 15px !important;
+    margin-right: 5rem;
+}
+.footer{
+    text-align: center;
+}
